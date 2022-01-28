@@ -6,8 +6,8 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, CSharp, Kotlin],
    technologies: {
       frontEnd: {
-         js: ["React", "Next"],
-         css: ["Materialize", "Bootstrap", "Material Design"]
+         js: ["React"],
+         css: ["Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express"],
