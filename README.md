@@ -1,4 +1,6 @@
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Francisco Huchin Uc 👨🏻‍💻
+![Development](https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/Head.jpg)
+
+# Francisco Huchin
 
 ```javascript
 const aboutMe = {
@@ -9,16 +11,14 @@ const aboutMe = {
          js: ["React"],
          css: ["Bootstrap"]
       },
-      backEnd: {
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"]
-      },
       databases: ["mySQL", "SQLServer"],
       mobile: ["Android"]
    },
    currentOccupation: ["last year student, open for job opportunities"]
 };
 ```
+
+## Skills and Experience
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,7 +31,7 @@ const aboutMe = {
   <img align="center" alt="Figma"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
-  ##
+## Social Networks
  
 <div> 
   <a href="https://twitter.com/Francisco_twtt" target="_blank">
@@ -44,9 +44,13 @@ const aboutMe = {
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-  
-<div align="center">
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+
+## Examples of Work
+<div>
+   <a href="https://franciscohuchinuc.github.io/QRCodeApp/" target="_blank">
+      <img src="https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/QRCodeApp.png" alt="QR Code App" width="500" >
+   </a>
+   <a href="https://franciscohuchinuc.github.io/WeatherApp/" target="_blank">
+      <img src="https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/WeatherApp.png" alt="Weather App" width="500" >
+   <a/>
 </div>
