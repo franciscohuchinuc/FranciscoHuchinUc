@@ -46,11 +46,11 @@ const aboutMe = {
 </div>
 
 ## Examples of Work
-<div>
+<div style="display: inline_block">
    <a href="https://franciscohuchinuc.github.io/QRCodeApp/" target="_blank">
-      <img src="https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/QRCodeApp.png" alt="QR Code App" width="500" >
+      <img src="https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/QRCodeApp.png" alt="QR Code App" width="350">
    </a>
    <a href="https://franciscohuchinuc.github.io/WeatherApp/" target="_blank">
-      <img src="https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/WeatherApp.png" alt="Weather App" width="500" >
+      <img src="https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/WeatherApp.png" alt="Weather App" width="350" >
    <a/>
 </div>
