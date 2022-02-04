@@ -54,6 +54,6 @@ const aboutMe = {
       <img src="https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/QRCodeApp.png" alt="QR Code App" width="350">
    </a>
    <a href="https://franciscohuchinuc.github.io/WeatherApp/" target="_blank">
-      <img src="https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/WeatherApp.png" alt="Weather App" width="350" >
+      <img src="https://github.com/FranciscoHuchinUc/FranciscoHuchinUc/blob/main/WeatherWebApp.png" alt="Weather App" width="350" >
    </a>
 </div>
