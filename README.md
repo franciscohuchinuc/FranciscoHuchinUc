@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscohuchinuc" alt="franciscohuchinuc" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/francisco_twtt" target="blank"><img src="https://img.shields.io/twitter/follow/francisco_twtt?logo=twitter&style=for-the-badge" alt="francisco_twtt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/frxndev" target="blank"><img src="https://img.shields.io/twitter/follow/francisco_twtt?logo=twitter&style=for-the-badge" alt="frxndev" /></a> </p>
 
 - 🔭 I’m currently working on [Panaderia La Guadalupana](https://github.com/FranciscoHuchinUc/LaGuadalupana)
 
