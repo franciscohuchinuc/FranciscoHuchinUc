@@ -3,7 +3,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Panaderia la Guadalupana<br>🌱 I’m currently learning ReactJS<br>📫 How to reach me huchin.uc.francisco@hotmail.com<br>💬 Ask me about
 
-[![](https://visitcount.itsvg.in/api?id=franciscohuchinuc&icon=2&color=6)](https://visitcount.itsvg.in)
+\
+![](https://komarev.com/ghpvc/?username=franciscohuchinuc&style=flat-square)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Francisco.HuchinUc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/francisco_huchin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@frxndev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/frxndev) 
